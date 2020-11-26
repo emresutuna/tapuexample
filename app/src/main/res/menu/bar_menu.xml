@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menuSearch"
+        android:title="Arama Yap"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/menuMarket"
+        android:title="@string/vitrine_git"
+        android:icon="@drawable/ic_baseline_dry_24"
+        app:showAsAction="always"
+
+        />
+    <item android:id="@+id/placeHolder"
+        android:title=""
+
+        />
+
+    <item android:id="@+id/menuAuction"
+        android:title="@string/a_k_art_rma"
+        android:icon="@drawable/ic_baseline_build_24"
+        app:showAsAction="always"
+
+        />
+    <item android:id="@+id/menuProfile"
+        android:title="@string/profil_sayfas"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="always"
+
+        />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tapuexample</string>
+    <string name="arama_yap">"Arama \nYap"</string>
+    <string name="a_k_art_rma">"Açık Artırma"</string>
+    <string name="profil_sayfas">"Profil Sayfası"</string>
+    <string name="vitrine_git">"Vitrine Git"</string>
+</resources>
